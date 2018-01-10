@@ -1,2 +1,2 @@
 class abc {}
-var
+xyz
