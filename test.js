@@ -1,2 +1,2 @@
-class abc
+class abc {}
 var
